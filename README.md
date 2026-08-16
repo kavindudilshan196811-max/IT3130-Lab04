@@ -1,12 +1,5 @@
-# IT3130-Lab04
+**Name:** Dildhan U B K
 
-## Profile
+**Student ID:** IT24103837
 
-**Name:** <!-- Dildhan U B K -->
-
-**Student ID:** <!-- IT24103837 -->
-
-**Course:** <!-- Infomation Technology -->
-
-**Module:** IT3130 - Application Development 
-
+**Course:** Information Technology
